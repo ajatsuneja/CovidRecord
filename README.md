@@ -1,3 +1,3 @@
 # CovidRecord
 
-![](Screenshot (15).png)
+![](covid.png)
