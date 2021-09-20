@@ -12,5 +12,7 @@ https://covidreport-1473b.web.app
 
 Novelty:
 
-websites shows the real time corona cases in world with the help of API
+websites shows the real time corona cases in world with the help of API (Covid19api)   
+link :  url="https://api.covid19api.com/summary"
+
  
