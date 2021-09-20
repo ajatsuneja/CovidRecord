@@ -16,3 +16,4 @@ websites shows the real time corona cases in world with the help of API (Covid19
 link :  url="https://api.covid19api.com/summary"
 
  
+![](covid.png)
